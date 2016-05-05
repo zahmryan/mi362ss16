@@ -1,0 +1,7 @@
+100 - Hosted on Heroku
+100 - Custom Domain Name
+300 - 4 complete HTML pages with content
+600 - Custom Programming with Node.JS
+200 - Custom css and bootstrap throughout the site
+50 - 3rd party font icon (FontAwesome) used for icons in footer
+25 - One custom image (not sure if this counts)
